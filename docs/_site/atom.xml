@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Slovák v ČR - FAQ</title>
+ <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://hyde.getpoole.com/"/>
+ <updated>2021-05-23T15:15:48+02:00</updated>
+ <id>http://hyde.getpoole.com</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Slovák v ČR - význam stránky</title>
+   <link href="http://hyde.getpoole.com/2021/05/23/vyznam/"/>
+   <updated>2021-05-23T00:00:00+02:00</updated>
+   <id>http://hyde.getpoole.com/2021/05/23/vyznam</id>
+   <content type="html">&lt;p&gt;V 19 rokoch som sa presťahoval žiť do Prahy za účelom štúdia na vysokej škole. Zo začiatku som potreboval riešiť pomerne jednoduché problémy tipu čo je to lítačka alebo kde dá nájsť výhodné ubytovanie. Neskôr, primárne pri začatí pracovania popri štúdiu a začaní bratna života serióznejšie som narazil na komplikácie so zdravotným a sociálnym poistením, daňami, oznamovacími povinnosti a ďalšie. Na tieto otázky už boli odpovede roztrúsenejšie a názory na fórach, internetových článkoch, telefonátov na pobočky alebo aj zákona sú často nejasné a dosť často sa od seba líšia a pravda “neexistuje”.&lt;/p&gt;
+
+&lt;p&gt;Za týmto účelom som založil toto miesto, kde je možné dohľadať všetky nástrahy (s ktorými som sa aspoň zatiaľ stretol) ktoré som v minulosti do detailu preskúmal. V prípade, že nájdete neaktuálne / nepravdivé informácie, alebo ak máte podnet čo tu chýba, kontaktujte ma na michal.dupkala@yahoo.com.&lt;/p&gt;
+
+&lt;p&gt;Svoj problém si môžete vybrať v pravom panely. Niektoré témy sú platné kdekoľvek v ČR sa nachádzate a niektoré sú špecifické pre Prahu. Všetky sú však z mojich osobných skúseností a reflektujú problémy primárne z pohľad upracujúceho študenta vysokej školy.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

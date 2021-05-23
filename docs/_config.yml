@@ -1,0 +1,30 @@
+# Dependencies
+
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Slovák v ČR - FAQ
+tagline:          'A Jekyll theme'
+description:      'Miesto, kde nájdete zhrnuté informácie pre rôzne druhy probémov slovákov v Česku'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+  
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
